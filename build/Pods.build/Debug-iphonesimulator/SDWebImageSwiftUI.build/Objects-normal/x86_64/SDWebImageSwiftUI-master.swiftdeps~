@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.16.9 clang-1200.0.22.5)"
+options: "85b45377d422a808365cfd5b649172f0"
+build_time: [1593537396, 685860000]
+inputs:
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Indicator/ActivityIndicator.swift": [1593533597, 214478645]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/AnimatedImage.swift": [1593533597, 214963054]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/ImageManager.swift": [1593533597, 213856173]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/ImageViewWrapper.swift": [1593533597, 215236388]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Indicator/Indicator.swift": [1593533597, 214325337]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Indicator/ProgressIndicator.swift": [1593533597, 214622325]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/SDWebImageSwiftUI.swift": [1593533597, 215109881]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/Transition/Transition.swift": [1593533597, 213690966]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Classes/WebImage.swift": [1593533597, 214780322]

@@ -1,0 +1,26 @@
+PODS:
+  - SDWebImage (5.4.1):
+    - SDWebImage/Core (= 5.4.1)
+  - SDWebImage/Core (5.4.1)
+  - SDWebImageSwiftUI (1.2.0):
+    - SDWebImage (~> 5.3)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - SDWebImageSwiftUI
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SDWebImage: 29c340dbdcef342bb13125553f4e19ce056b07a7
+  SDWebImageSwiftUI: 3530ef646416babe79d09ba807264ade86e042d7
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 54754da86748a05c3204a48259eb464359d70792
+
+COCOAPODS: 1.8.3

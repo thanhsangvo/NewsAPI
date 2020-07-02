@@ -1,0 +1,480 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/Pods_NewsAPI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-NewsAPI-umbrella.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/Target Support Files/Pods-NewsAPI/Pods-NewsAPI-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_NewsAPI-Swift.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/Pods_NewsAPI.framework/Headers/Pods_NewsAPI-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/Pods_NewsAPI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Pods.build/Debug-iphonesimulator/Pods-NewsAPI.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSButton+WebCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/NSButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSImage+Compatibility.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/NSImage+Compatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAnimatedImage.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDAnimatedImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAnimatedImagePlayer.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDAnimatedImagePlayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAnimatedImageRep.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDAnimatedImageRep.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAnimatedImageView+WebCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDAnimatedImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAnimatedImageView.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDAnimatedImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDDiskCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDDiskCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageAPNGCoder.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageAPNGCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCacheConfig.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCacheConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCacheDefine.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCacheDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCachesManager.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCachesManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCoder.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCoderHelper.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCoderHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCodersManager.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageCodersManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageFrame.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageFrame.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageGIFCoder.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageGIFCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageGraphics.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageGraphics.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageHEICCoder.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageHEICCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageIOAnimatedCoder.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageIOAnimatedCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageIOCoder.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageIOCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageLoader.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageLoader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageLoadersManager.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageLoadersManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageTransformer.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDImageTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDMemoryCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDMemoryCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/WebImage/SDWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCacheKeyFilter.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageCacheKeyFilter.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCacheSerializer.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageCacheSerializer.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDefine.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDefine.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderConfig.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderDecryptor.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderDecryptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderRequestModifier.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderRequestModifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderResponseModifier.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderResponseModifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageError.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageError.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageIndicator.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageIndicator.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOptionsProcessor.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageOptionsProcessor.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageTransition.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/SDWebImageTransition.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+ExtendedCacheData.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+ExtendedCacheData.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+ForceDecode.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+ForceDecode.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MemoryCacheCost.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+MemoryCacheCost.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Metadata.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+Metadata.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Transform.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImage+Transform.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCache.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Core/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSBezierPath+RoundedCorners.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/NSBezierPath+RoundedCorners.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAssociatedObject.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDAssociatedObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAsyncBlockOperation.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDAsyncBlockOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDDeviceHelper.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDDeviceHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDDisplayLink.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDDisplayLink.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDFileAttributeHelper.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDFileAttributeHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageAssetManager.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDImageAssetManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCachesManagerOperation.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDImageCachesManagerOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageHEICCoderInternal.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDImageHEICCoderInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageIOAnimatedCoderInternal.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDImageIOAnimatedCoderInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDInternalMacros.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDInternalMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWeakProxy.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDWeakProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDmetamacros.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/SDmetamacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+HexString.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImage/SDWebImage/Private/UIColor+HexString.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImageSwiftUI/SDWebImageSwiftUI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SDWebImageSwiftUI-Swift.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImageSwiftUI/SDWebImageSwiftUI.framework/Headers/SDWebImageSwiftUI-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageSwiftUI-umbrella.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/Target Support Files/SDWebImageSwiftUI/SDWebImageSwiftUI-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageSwiftUI.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SDWebImageSwiftUI/SDWebImageSwiftUI/Module/SDWebImageSwiftUI.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SDWebImageSwiftUI/SDWebImageSwiftUI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Pods.build/Debug-iphonesimulator/SDWebImageSwiftUI.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

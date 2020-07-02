@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.16.9 clang-1200.0.22.5)"
+options: "ce43b0e1de905f3faca19e78f71ff140"
+build_time: [1593607582, 470561000]
+inputs:
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/NewsAPI/ContentView.swift": [1593538005, 421024928]
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/NewsAPI/NewsAPIApp.swift": [1593507631, 25360514]

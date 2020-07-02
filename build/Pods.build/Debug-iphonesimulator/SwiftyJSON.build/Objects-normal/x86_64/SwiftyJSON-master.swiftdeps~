@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.16.9 clang-1200.0.22.5)"
+options: "5759c4763a6554e083c750ff0ec7075d"
+build_time: [1593607515, 233968000]
+inputs:
+  "/Users/vothanhsang/Developer/SwiftUI/NewsAPI/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1593533600, 232643040]
